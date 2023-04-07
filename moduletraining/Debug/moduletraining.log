@@ -1,0 +1,5 @@
+﻿  module.cpp
+  moduletraining.cpp
+C:\Users\Samsung\Desktop\cpp\moduletraining\moduletraining.cpp(13,69): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода...
+  moduletraining.vcxproj -> C:\Users\Samsung\Desktop\cpp\moduletraining\Debug\moduletraining.exe

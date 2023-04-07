@@ -1,0 +1,3 @@
+﻿  moduletraining.cpp
+C:\Users\Samsung\Desktop\cpp\moduletraining\moduletraining.cpp(7,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  moduletraining.vcxproj -> C:\Users\Samsung\Desktop\cpp\moduletraining\x64\Debug\moduletraining.exe

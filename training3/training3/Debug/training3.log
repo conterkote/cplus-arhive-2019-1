@@ -1,0 +1,3 @@
+﻿  training3.cpp
+C:\Users\Samsung\Desktop\WORK\C++\cpp\training3\training3\training3.cpp(18,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  training3.vcxproj -> C:\Users\Samsung\Desktop\WORK\C++\cpp\training3\Debug\training3.exe

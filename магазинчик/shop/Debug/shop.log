@@ -1,0 +1,5 @@
+﻿  Employ.cpp
+  shop.cpp
+  Создание кода...
+shop.obj : error LNK2019: ёё√ыър эр эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "public: void __thiscall Employ::setEmploymentsDetails(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?setEmploymentsDetails@Employ@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@00@Z) т ЇєэъЎшш _main
+C:\Users\Samsung\Desktop\яЁюуЁрьхЁютрэшх\C++\cpp\ьрурчшэўшъ\shop\Debug\shop.exe : fatal error LNK1120: эхЁрчЁх°хээ√ї тэх°эшї ¤ыхьхэЄют: 1

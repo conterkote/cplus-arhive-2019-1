@@ -1,0 +1,5 @@
+﻿  symbolsfinder.cpp
+C:\Users\Samsung\Desktop\WORK\C++\cpp\symbolsfinder\symbolsfinder\symbolsfinder.cpp(13,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Samsung\Desktop\WORK\C++\cpp\symbolsfinder\symbolsfinder\symbolsfinder.cpp(15,15): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Samsung\Desktop\WORK\C++\cpp\symbolsfinder\symbolsfinder\symbolsfinder.cpp(12,9): warning C4101: number: неиспользованная локальная переменная
+  symbolsfinder.vcxproj -> C:\Users\Samsung\Desktop\WORK\C++\cpp\symbolsfinder\Debug\symbolsfinder.exe
